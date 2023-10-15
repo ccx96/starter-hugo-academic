@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Electrical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,12 +22,14 @@ organizations:
     url: https://http://en.xjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Characterization of 2D material properties, Micro area characteristic testing based on Atomic Force Microscopy.
+
+.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Characterization of 2D material properties
+  - Micro area characteristic testing based on Atomic Force Microscopy(AFM)
   - Information Retrieval
 
 # Education to show in About widget
@@ -77,5 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Previously, I was a postgraduate at the Xi’an Jiaotong University supervised by Prof. Jun Zhou. My research focuses on micro area electrical properties of two-dimensional phosphorus materials, based on Kelvin Probe Force Microscopy(KPFM). In addition, I also conducted micro thermal conductivity testing of polymer nanocomposites using a Scanning Thermal Microscopy(SThm).
+
 {style="text-align: justify;"}
