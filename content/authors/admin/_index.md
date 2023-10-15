@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Characterization of 2D material properties, Micro area characteristic testing based on Atomic Force Microscopy.
 
-.
+
 
 # Interests to show in About widget
 interests:
