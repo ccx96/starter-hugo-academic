@@ -53,7 +53,7 @@ social:
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&tzom=-480&user=h1rIOu0AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
